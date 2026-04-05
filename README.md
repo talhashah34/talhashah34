@@ -1,38 +1,62 @@
-# 💫 About Me
+# Hi, I'm Talha Raza Shah 👋
 
-🚀 **.NET Backend Developer | ASP.NET MVC • Web API • Blazor**
+**Junior .NET Developer** · Building enterprise web tools for GCC, Australian & Canadian markets · Lahore, Pakistan
 
-🔭 I am currently working as a **.NET developer**, building and maintaining business-grade web applications using **ASP.NET MVC**, **C#**, and **SQL Server**.
-
-🧠 My primary focus is on **backend development**, clean architecture, and implementing real-world business logic in scalable systems.  
-I am also **learning and building with Blazor** to expand my skills within the .NET ecosystem.
-
-👯 I’m open to collaborating on **enterprise applications, internal systems, and backend-heavy web projects**.
-
-💬 Ask me about:
-- ASP.NET MVC architecture  
-- Web APIs & backend logic  
-- SQL Server & data-driven systems  
-- Transitioning MVC applications within the .NET ecosystem  
-
-⚡ Fun fact: I enjoy converting complex business requirements into clean, maintainable backend solutions.
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-7B2FBE?style=flat&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
+## About Me
 
-### Backend & Frameworks
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/Web_API-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+Full stack .NET developer focused on building enterprise web applications for international clients. I build everything from financial calculators and compliance tools to multi-tool SaaS platforms — with clean architecture, good SEO, and real users in mind.
 
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 BS Computer Science · Government College University, Lahore
+- 🌙 Night shift developer · shipping real products
+- 🌍 Building for **GCC**, **Australian**, and **Canadian** markets
+- 🚀 Currently levelling up on microservices, Docker & Azure DevOps
 
-### Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+---
+
+## 🔥 Featured Project — [Zuneqa.com](https://zuneqa.com)
+
+A live multi-tool web platform built with **ASP.NET Core MVC**.
+
+| Feature | Details |
+|---|---|
+| DevTools | SQL Formatter, Base64, Hash Generator, UUID Generator, URL Encoder/Decoder |
+| TextTools | Word Counter, Case Converter, Lorem Ipsum, Find & Replace |
+| Financial Tools | GCC Gratuity, Stamp Duty, Lease Calculator, Visa Fine, Rent Calc |
+| Tech | ADO.NET repo pattern · JSON-LD schema · Google Search Console · Live navbar search |
+| Markets | 🇸🇦 GCC · 🇦🇺 Australia · 🇨🇦 Canada |
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** C# · ASP.NET Core MVC · Blazor · Entity Framework Core · ADO.NET · SQL Server  
+**Frontend:** React · TailwindCSS · Razor Pages  
+**DevOps:** Git · Azure DevOps · CI/CD  
+**SEO:** JSON-LD structured data · Open Graph · Google Search Console  
+
+---
+
+## 📚 Currently Learning
+
+- Microservices Architecture (IdentityService, API Gateway patterns)
+- Docker & Containerization
+- Azure DevOps CI/CD Pipelines
+- SOLID Principles & Clean Architecture
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-raza-shah/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/talhashah34)
+[![Zuneqa](https://img.shields.io/badge/Zuneqa.com-00B894?style=flat&logoColor=white)](https://zuneqa.com)
