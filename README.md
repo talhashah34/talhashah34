@@ -9,7 +9,10 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![Microservices](https://img.shields.io/badge/Microservices-Learning-blue?style=flat)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Learning-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Learning-DD0031?style=flat&logo=angular&logoColor=white)
 ---
 
 ## About Me
@@ -52,6 +55,7 @@ A live multi-tool web platform built with **ASP.NET Core MVC**.
 - Docker & Containerization
 - Azure DevOps CI/CD Pipelines
 - SOLID Principles & Clean Architecture
+- Angular (integrating with ASP.NET Core backends)
 
 ---
 
